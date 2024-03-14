@@ -1,0 +1,2 @@
+# PersonalAs
+一个基于InternLm本地部署模型和个人向量知识库搭建的私人助手
