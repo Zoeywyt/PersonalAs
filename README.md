@@ -1,3 +1,6 @@
+# PersonalAs
+一个基于InternLm本地部署模型和个人向量知识库搭建的私人助手
+
 # 基于 InternLM 和 LangChain 搭建你的知识库
 
 - [基于 InternLM 和 LangChain 搭建你的知识库](#基于-internlm-和-langchain-搭建你的知识库)
@@ -427,3 +430,6 @@ gr.close_all()
 demo.launch()
 ```
 通过将上述代码封装为 run_gradio.py 脚本，直接通过 python 命令运行，即可在本地启动知识库助手的 Web Demo，默认会在 7860 端口运行
+
+
+
